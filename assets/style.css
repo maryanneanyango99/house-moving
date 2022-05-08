@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: antiquewhite; */
+    font-family: Poppins,  Actor, Adamina;
+    /* color:  #FFAC12; */
+}
+#top{
+    background-image: url("./images/moving\ 1.png");
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+    height: 50vh;
+    align-items: center;
+}
+#top > header > .links > ul > li{
+    display: inline;
+    padding: 20px;
+    margin-top: 35px;
+}
+#top > header > .links{
+    margin-left: 60%;
+    color: whitesmoke;
+}
+#top > header > .links > ul > a > .btn-1{
+    margin: 10px;
+    background-color: #FAFF00;
+    ;
+}
+#top > .content > .content-1{
+    color:  #FAFF00;
+    font-size: 30px;
+    margin: 30px;
+    font-size: 30px;
+}
+#top > .content > .content-2{
+    color: antiquewhite;
+    margin: 30px;
+
+}
+
+
+a{
+    margin: px;
+}
+
+#sect-b{
+    display: flex;
+    justify-content: space-between;
+    width: fit-content;
+    margin-top: 50px;
+}
+#sect-b > .moving2{
+    display: flex;  
+    max-height: min-content; 
+}
+#sect-b > .moving2 >img{
+    height: 700px;
+    width: 800px;
+}
+#sect-b > .hustle{
+    margin:30px;
+    padding: 50px;
+    align-items: center;
+    position: relative;
+    top: 140px;
+}
+#sect-b > .hustle > hr{
+    width: 30%;
+    color: #873e23;
+}
+
+#sect-b > .hustle > h2{
+    font-size: 40px;
+    padding-bottom: 20px;
+}
+#sect-b > .hustle > p{
+    margin:10px;
+    font-size: 20px;
+     
+}
+#sect-b > .hustle > p > button{
+    margin: 20px;
+    background-color: black;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 5px;
+}
+#sect-c{
+    margin-top: 25px;
+    /* border: solid; */
+    background-color: whitesmoke;
+    padding-top: 80px;
+    margin: 40px;
+}
+#sect-c > .top-movers > hr{
+    width: 10%;
+}
+#sect-c > .top-movers > h3{
+    font-size: 40px;
+    margin: 20px;
+}
+#sect-c > .movers{
+    display: flex;
+    justify-content: space-between;
+}
+#sect-c > .movers > .layer-1{
+    padding: 20px;
+}
+#sect-c > .movers > .layer-1 > img{
+    width: 90%;
+}
+
+#sect-d{
+    color: white;
+    background: rgb(0,0,0);
+    background: linear-gradient(40deg, rgba(0,0,0,1) 60%, rgba(55,41,4,1) 100%);
+    /* height: 30vh; */
+}
+hr{
+    line-height: 1px;
+    
+    list-style:georgian;
+    width: 90%;
+    margin: 30px;
+
+}
+#sect-d > .footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+#sect-d > .footer > .col-making {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 90px;
+   
+} 
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  #sect-d> .move > h3{
+      margin: 30px;
+      font-size: 25px;
+  }
+  #sect-d> .move > h3 > .move-tap{
+    color:#873e23;
+    font-size: 30px;
+}
+#sect-d > .footer > .col-making> .col-1 > .theLinks > li{
+    list-style-type: none;
+    border: none;
+    margin: 20px;
+    
+}
+#sect-d > .footer > .col-making> .col-2 > .theLinks > li{
+    list-style-type: none;
+    border: none;
+    margin: 20px;
+    
+}
+#sect-d > .footer > .col-making> .col-3 > .theLinks > li{
+    list-style-type: none;
+    border: none;
+    margin: 20px;
+    
+    
+}
